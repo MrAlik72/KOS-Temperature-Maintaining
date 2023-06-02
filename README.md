@@ -1,5 +1,6 @@
 # Project Name
 
+DIPLOMA PROJECT
 Temperature Control System on Kaspersky OS
 
 ## Overview
